@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "854307515900",
+    "project_id": "b2b-app-a39f4",
+    "storage_bucket": "b2b-app-a39f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854307515900:android:79b1f6f1b6af99f77d9679",
+        "android_client_info": {
+          "package_name": "com.kayan.B2Btests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854307515900-gn00ngg8e5h3k7rah17dirntohlspm9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbr9z2BK3V5gmVRrspHHt2LyIqAQllz0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854307515900-gn00ngg8e5h3k7rah17dirntohlspm9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854307515900-ld8q64k0k490ei95iv45tlgh7g751fct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mhammed.templateFlutterProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
