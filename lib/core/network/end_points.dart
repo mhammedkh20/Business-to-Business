@@ -1,7 +1,7 @@
 // ignore_for_file: constant_identifier_names
 
 class EndPoints {
-  static const String BASE_URL = 'https://btob.app/api';
+  static const String BASE_URL = 'https://anonymous/api';
   // ! Auth
   static const String LOGIN = '/auth/login';
   static const String REGISTR = '/auth/register';
